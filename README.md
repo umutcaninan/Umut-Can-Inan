@@ -1,4 +1,4 @@
-# Selam! Ben umutcaninan 👋
+# Selam! Ben Umut Can İnan 👋
 
 ### 👨‍💻 Hakkımda
 Yazılım dünyasında farklı diller ve teknolojiler arasında mekik dokuyan bir geliştiriciyim. Karmaşık problemleri çözmeyi ve performanslı kod yazmayı seviyorum. Şu an kendimi Java alanında geliştiriyorum.
