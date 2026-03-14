@@ -1,7 +1,7 @@
 # Selam! Ben Umut Can Inan 👋
 
 ### 👨‍💻 Hakkımda
-Yazılım dünyasında farklı diller ve teknolojiler arasında mekik dokuyan bir geliştiriciyim. Karmaşık problemleri çözmeyi ve performanslı kod yazmayı seviyorum. Şu an kendimi [Örn: Web Geliştirme / Oyun Motorları / AI] alanında geliştiriyorum.
+Yazılım dünyasında farklı diller ve teknolojiler arasında mekik dokuyan bir geliştiriciyim. Karmaşık problemleri çözmeyi ve performanslı kod yazmayı seviyorum. Şu an kendimi Java alanında geliştiriyorum.
 
 - 🔭 Şu anda **ByteQuest** üzerinde çalışıyorum.
 - 🌱 Yeni öğrendiğim konular: **Java**.
@@ -29,6 +29,7 @@ Yazılım dünyasında farklı diller ve teknolojiler arasında mekik dokuyan bi
 ---
 
 ### ⚡ Eğlenceli Gerçekler
-- ☕ Kahve ile koda dönüşüyorum.
-- 🎮 Boş zamanlarımda [Oyun/Hobi] ile ilgilenirim.
-- 🚀 "Hello World" yazmanın heyecanını hala yaşıyorum.
+- ☕ Kahveyi koda dönüştüren bir biyolojik işlemciyim.
+- 🌙 En üretken saatlerim genellikle herkesin uyuduğu saatler.
+- 🐛 Bug'ları kovalamak benim için bir nevi kardiyo sayılır.
+- 🎮 Boş zamanlarımda CS oynayarak enerji toplarım.
