@@ -3,10 +3,9 @@
 ### 👨‍💻 Hakkımda
 Yazılım dünyasında farklı diller ve teknolojiler arasında mekik dokuyan bir geliştiriciyim. Karmaşık problemleri çözmeyi ve performanslı kod yazmayı seviyorum. Şu an kendimi [Örn: Web Geliştirme / Oyun Motorları / AI] alanında geliştiriyorum.
 
-- 🔭 Şu anda **[Proje Adı]** üzerinde çalışıyorum.
-- 🌱 Yeni öğrendiğim konular: **[Örn: Spring Boot / React / Unreal Engine]**.
-- 💬 Bana **[Konu]** hakkında soru sorabilirsiniz.
-- 📫 Bana ulaşın: **[E-posta adresin veya LinkedIn linkin]**
+- 🔭 Şu anda **ByteQuest** üzerinde çalışıyorum.
+- 🌱 Yeni öğrendiğim konular: **Java**.
+- 💬 Bana **C#** hakkında soru sorabilirsiniz.
 
 ---
 
